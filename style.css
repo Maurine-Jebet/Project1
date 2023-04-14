@@ -1,0 +1,88 @@
+body{
+    font-family: 'Abel', sans-serif;
+ font-family: 'Lora', serif;
+ /* font-family: 'Shantell Sans', cursive; */
+ font-size: 20px;
+ overflow-x: hidden;
+ }
+ #list{
+    display: flex;
+    justify-content: space-between;
+}
+.icons{
+    display: grid;
+    gap: 0%;
+}
+#boo2222{
+    width: 1250px;
+    height: 1000px;
+    border-radius: 5%;
+}
+.raw{
+    display: grid;
+    display: inline-flex;
+    gap: 340%;
+    background: #ffc9c9;
+    background-size: cover;
+
+}
+.images{
+    display: flex;
+    gap: 6%;
+}
+#bu{
+    border-radius: 30px;
+    padding: 3%;
+    background-color: lightsalmon;
+    box-shadow: #c5f6fa;
+    border: #c5f6fa;
+}
+
+.images{
+    background-color: burlywood;
+}
+.bo{
+    background-color: #c5f6fa;
+}
+.dolls{
+    display: flex;
+    gap: 6%;
+}
+.dolls{
+    background-color: burlywood;
+
+}
+#brr1{
+    width: 250px;
+}
+.name{
+    margin-left: 43%;
+    font-style: italic;
+    color:#ae3ec9 ;
+}
+.doll{
+    display: flex;
+    gap: 12%;
+    background-color: burlywood;
+
+
+}
+.icon{
+    display: grid;
+    gap: 0%;
+    color: #fd7e14;
+}
+.footer{
+    display: flex;
+    gap: 7%;
+    background-color: black;
+    color: antiquewhite;
+    
+    
+}
+
+
+
+ 
+ 
+ 
